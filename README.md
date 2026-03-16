@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>Cybersecurity mini projects and Python-based security tools  <br><br>👯 I’m looking to collaborate on  <br>  <br><br>🤝 I’m looking for help with  <br>Real-world cyber security projects and open-source contributions  <br><br>🌱 I’m currently learning  <br>Cyber Security, Network Security, Python, and Java  <br><br>💬 Ask me about  <br>Python basics, cyber security concepts, and mini projects  <br><br>⚡ Fun fact  <br>I switched from diploma core studies to cybersecurity—and I love breaking things (ethically 😉)<br>
+🔭 I’m currently working on  <br>Cybersecurity mini projects and Python-based security tools  <br><br><br>🤝 I’m looking for help with  <br>Real-world cyber security projects and open-source contributions  <br><br>🌱 I’m currently learning  <br>Cyber Security, Network Security, Python, and Java  <br><br>💬 Ask me about  <br>Python basics, cyber security concepts, and mini projects  <br><br>⚡ Fun fact  <br>I switched from diploma core studies to cybersecurity—and I love breaking things (ethically 😉)<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ambika115&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
